@@ -21,6 +21,6 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-supercode&hide_border=true&layout=compact&theme=tokyonight" align="left" />
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-supercode&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/roman-supercode/roman-supercode/blob/main/README.md)
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=roman-supercode&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/roman-supercode/roman-supercode/blob/main/README.md)
 
 <br/>
