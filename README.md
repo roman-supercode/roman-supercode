@@ -20,6 +20,7 @@
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-supercode&hide_border=true&layout=compact&theme=tokyonight" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-supercode&hide_border=true&layout=compact&theme=tokyonight" align="left" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-supercode&layout=compact)]()
 
 <br/>
