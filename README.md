@@ -1,4 +1,4 @@
-## Hello 👋, I'm Roman.  
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Roman.  
   
 - 👨‍💻 A aspiring Full-Stack Web Developer from Germany.
 - 🌱 I’m currently completing a continuing education program at [Supercode](https://www.super-code.de)  
