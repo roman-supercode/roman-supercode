@@ -4,7 +4,7 @@
 - 🌱 I’m currently taking a TypeScript training course at [Supercode](https://www.super-code.de)  
 <br/>  
 
-## Languages and tools I use and learn
+### Languages and tools I use and learn
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=round-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=round-square&logo=typescript&logoColor=white)
@@ -29,7 +29,7 @@
 | [Rock Paper Scissor Game](https://github.com/roman-supercode/project_rock_paper_scissors) |  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=round-square&logo=javascript) |
 
 
-## Github Stats  
+### Github Stats  
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roman-supercode&hide_border=true&layout=compact&theme=tokyonight" align="left" />
 
 <br/>
