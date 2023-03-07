@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=round-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=round-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=round-square&logo=css3)
+![SASS](https://img.shields.io/badge/-Sass-000000?logo=sass&logoColor=fff&style=round-square)
 ![Node.JS](https://img.shields.io/badge/-Node.js-black?style=round-square&logo=node.js&logoColor=green)
 ![ExpressJS](https://img.shields.io/badge/-Express-black?style=round-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=round-square&logo=mongodb&logoColor=green)
@@ -22,10 +23,11 @@
 <!-- table -->
 | **Title**                                    | **Technologies**                           |
 |------------------------------------------|----------------------------------------|
-| [Movie Mania (Only Mobileview)](https://github.com/roman-supercode/project-movie-mania) | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react) ![The Movie Database Badge](https://img.shields.io/badge/The%20Movie%20Database-000000?logo=themoviedatabase&logoColor=fff&style=flat-square)|
-| [Pokedex](https://github.com/roman-supercode/project-pokemonAPI) | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react) ![Pokémon Badge](https://img.shields.io/badge/Pok%C3%A9mon-000000?logo=pokemon&logoColor=white&style=flat-square) |
+| [Movie Mania (Only Mobileview)](https://github.com/roman-supercode/project-movie-mania) | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react) ![The Movie Database Badge](https://img.shields.io/badge/The%20Movie%20Database-000000?logo=themoviedatabase&logoColor=fff&style=round-square)|
+| [Pokedex](https://github.com/roman-supercode/project-pokemonAPI) | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react) ![Pokémon Badge](https://img.shields.io/badge/Pok%C3%A9mon-000000?logo=pokemon&logoColor=white&style=round-square) |
 | [Salvador DALLE](https://github.com/roman-supercode/salvador-dalle-project) | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react) ![Node.JS](https://img.shields.io/badge/-Node.js-black?style=round-square&logo=node.js&logoColor=green) ![ExpressJS](https://img.shields.io/badge/-Express-black?style=round-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=round-square&logo=mongodb&logoColor=green) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=round-square&logo=tailwindcss&logoColor=blue) |
 | [Jobly](https://github.com/roman-supercode/jobly-project)  | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react) ![Node.JS](https://img.shields.io/badge/-Node.js-black?style=round-square&logo=node.js&logoColor=green) ![ExpressJS](https://img.shields.io/badge/-Express-black?style=round-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=round-square&logo=mongodb&logoColor=green) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?logo=styledcomponents)|
+| [Bucket List](https://github.com/roman-supercode/bucket-list-project) | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 | [Rock Paper Scissor Game](https://github.com/roman-supercode/project_rock_paper_scissors) |  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=round-square&logo=javascript) |
 
 
